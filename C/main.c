@@ -96,18 +96,17 @@ int main(int argc, char* argv[]) {
 
     for (int k = 0; k <= finalWordCount-1; k++) {
         printf("%s",names[k]);
+        printf("\n");
     }
-    printf("\n");
-
     return 0;
 
 }
 
-char *replace(char toBeReplaced[], char toBeCopied[], int longestWordLength) {
+char * replace(char toBeReplaced[], char toBeCopied[], int longestWordLength) {
     char word[longestWordLength];
     int currentIndex = 0;
     while (toBeCopied[currentIndex] != '\0') {
-        toBeReplaced[currentIndex] = toBeCopied[currentIndex];
+        word[currentIndex] = toBeCopied[currentIndex];
         currentIndex++;
     }
 
@@ -152,9 +151,15 @@ void quickSort( int first, int last, int x,int longestWordLength, char names[x][
 
             if(i<j) {
                 printf("Swapping %s(position %d) with %s(position %d)\n",names[pivot],pivot, names[j],j);
-                replace(temp, names[pivot], longestWordLength);
-                replace(names[pivot], names[j], longestWordLength);
-                replace(names[j], temp, longestWordLength);
+                for(i = 0; i <=longestWordLength-1; i++){
+                    temp[i] = names[pivot][i];
+                }
+                for(i = 0; i <=longestWordLength-1; i++){
+                    names[pivot][i] = names[j][i];
+                }
+                for(i = 0; i <=longestWordLength-1; i++){
+                    names[j][i] = temp[i];
+                }
                 quickSort(first, j - 1, x, longestWordLength, names);
                 quickSort(j + 1, last, x, longestWordLength, names);
             }
