@@ -2,9 +2,10 @@
 #include <stdlib.h>
 
 int main(int argc, char* argv[]) {
-    void quickSort( int first, int last, int x,int longestWordLength, char names[x][longestWordLength]);
+    void quickSort(int left, int right,int words, int letters, char names[words][letters]);
     int compare(char base[], char toCompare[], int startIndex);
     char *replace(char toBeReplaced[], char toBeCopied[], int longestWordLength);
+    int partitionMaker(int left, int right, int pivot, int words, int letters, char names[words][letters]);
     /*for(int i = 2; i <= argc; i++){
         int j = 0;
         while(argv[i][j] != '/0'){
@@ -82,37 +83,75 @@ int main(int argc, char* argv[]) {
 
         }
 
-    printf("%d\n",finalWordCount);
-
     for (int k = 0; k <= finalWordCount-1; k++) {
-        printf("%s\n",names[k]);
-    }
-    printf("\n");
-
-
-
-
- quickSort(0, finalWordCount-1, finalWordCount, longestWordLength, names);
-
-    for (int k = 0; k <= finalWordCount-1; k++) {
-        printf("%s",names[k]);
+        for (int j = 0; j <= longestWordLength - 1; j++) {
+            printf("%c", names[k][j]);
+        }
+        printf("end");
         printf("\n");
     }
+
+    quickSort(0, finalWordCount-1, finalWordCount, longestWordLength, names);
+    for (int k = 0; k <= finalWordCount-1; k++) {
+        for (int j = 0; j <= longestWordLength - 1; j++) {
+            printf("%c", names[k][j]);
+        }
+        printf("end");
+        printf("\n");
+    }
+
     return 0;
 
 }
 
-char * replace(char toBeReplaced[], char toBeCopied[], int longestWordLength) {
-    char word[longestWordLength];
-    int currentIndex = 0;
-    while (toBeCopied[currentIndex] != '\0') {
-        word[currentIndex] = toBeCopied[currentIndex];
-        currentIndex++;
+
+int partitionMaker(int left, int right, int pivot, int words, int letters, char names[words][letters]){
+    int compare(char base[], char toCompare[], int startIndex);
+    int leftPointer = left;
+    int rightPointer = right -1;
+
+    while(1){
+        while(compare(names[pivot],names[leftPointer],0)){
+            leftPointer++;
+        }
+        while(rightPointer>0 && compare(names[pivot],names[rightPointer],0)){
+            rightPointer--;
+        }
+        if(leftPointer>=rightPointer){
+            break;
+        } else{
+            for(int j = 0; j <= letters-1; j++){
+                char temp = names[leftPointer][j];
+                names[leftPointer][j] = names[rightPointer][j];
+                names[rightPointer][j] = temp;
+            }
+        }
+    }
+    for(int j = 0; j <= letters-1; j++){
+        char temp = names[leftPointer][j];
+        names[leftPointer][j] = names[right][j];
+        names[right][j] = temp;
+    }
+    return leftPointer;
+}
+
+void quickSort(int left, int right, int words, int letters, char names[words][letters]){
+    int pivot;
+    int partition;
+    if (right-left <= 0){
+        return;
+    }
+    else{
+        pivot = right;
+        partition = partitionMaker(left, right, pivot, words, letters, names);
+
+        quickSort(left, partition-1, words, letters, names);
+        quickSort(partition+1, right, words, letters, names);
     }
 
-    return word;
-
 }
+
+
 //true if toCompare should be before base
 int compare(char base[], char toCompare[], int startIndex) {
     if (base[startIndex] == '\0') {
@@ -130,41 +169,3 @@ int compare(char base[], char toCompare[], int startIndex) {
     }
 }
 
-void quickSort( int first, int last, int x,int longestWordLength, char names[x][longestWordLength]) {
-    int i, j, pivot;
-    char temp[longestWordLength];
-    if (first<last) {
-        pivot = first;
-        i = first;
-        j = last;
-
-        while (i<j) {
-
-            while (compare(names[i], names[pivot], 0) && i<last) {
-                i++;
-            }
-            printf("%d",i);
-            while (compare(names[pivot], names[j], 0)) {
-                j--;
-            }
-            printf("%d",j);
-
-            if(i<j) {
-                printf("Swapping %s(position %d) with %s(position %d)\n",names[pivot],pivot, names[j],j);
-                for(i = 0; i <=longestWordLength-1; i++){
-                    temp[i] = names[pivot][i];
-                }
-                for(i = 0; i <=longestWordLength-1; i++){
-                    names[pivot][i] = names[j][i];
-                }
-                for(i = 0; i <=longestWordLength-1; i++){
-                    names[j][i] = temp[i];
-                }
-                quickSort(first, j - 1, x, longestWordLength, names);
-                quickSort(j + 1, last, x, longestWordLength, names);
-            }
-
-
-        }
-    }
-}
