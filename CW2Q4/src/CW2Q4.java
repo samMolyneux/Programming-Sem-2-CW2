@@ -1,0 +1,5 @@
+public class CW2Q4 {
+    public static void main(String args[]){
+
+    }
+}
