@@ -11,7 +11,20 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3bc0f16-c1e4-41d0-8060-a1432c4ab77b" name="Default Changelist" comment="" />
+    <list default="true" id="f3bc0f16-c1e4-41d0-8060-a1432c4ab77b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CW2Q8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW2Q8/src/CW2Q8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q7/.idea/Q7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Names/names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Names/names.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/C.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/C.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW2Q4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CW2Q4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW2Q4/out/production/CW2Q4/CW2Q4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CW2Q4/out/production/CW2Q4/CW2Q4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q3/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Q3/main.c" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="31" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="31" />
+            <state relative-caret-position="255">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -55,7 +68,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-7" />
     <option name="width" value="1294" />
     <option name="height" value="1047" />
@@ -73,7 +86,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -113,7 +126,9 @@
       <workItem from="1554925493065" duration="7029000" />
       <workItem from="1554994737961" duration="20421000" />
       <workItem from="1555061376058" duration="24000" />
-      <workItem from="1555152308959" duration="817000" />
+      <workItem from="1555152308959" duration="2778000" />
+      <workItem from="1555237322701" duration="278000" />
+      <workItem from="1555247153358" duration="610000" />
     </task>
     <task id="LOCAL-00001" summary="uhhhhh">
       <created>1555013905715</created>
@@ -133,18 +148,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28291000" />
+    <option name="totallyTimeSpent" value="31140000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1294" height="1047" extended-state="0" />
+    <frame x="-7" y="0" width="1294" height="1047" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28525123" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2949757" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32932165" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934355" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -174,8 +189,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="31" />
+        <state relative-caret-position="255">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>

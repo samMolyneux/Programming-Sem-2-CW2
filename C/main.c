@@ -6,16 +6,8 @@ int main(int argc, char* argv[]) {
     int compare(char base[], char toCompare[], int startIndex);
     char *replace(char toBeReplaced[], char toBeCopied[], int longestWordLength);
     int partitionMaker(int left, int right, int pivot, int words, int letters, char names[words][letters]);
-    /*for(int i = 2; i <= argc; i++){
-        int j = 0;
-        while(argv[i][j] != '/0'){
-            input[i-2][j] = argv[i][j];
-        }
-        input[i-2][j+1] = '/0';
-    }*/
+
     char input[8192][64];
-
-
 
     FILE *filePointer = fopen(argv[1], "r");
     if (filePointer == NULL) {
@@ -32,7 +24,7 @@ int main(int argc, char* argv[]) {
     while (nextChar != EOF) {
         if (nextChar == '"') {
         } else if (nextChar == ',') {
-            for (int j = 0; j <= letterCounter; j++) {
+            for (int j = 0; j <= letterCounter-1; j++) {
                 input[wordCounter][j] = currentName[j];
                 input[wordCounter][j + 1] = '\0';
                 //currentName[j] = 0;
@@ -104,7 +96,16 @@ int main(int argc, char* argv[]) {
 
 }
 
-
+/**
+ * returns an array with values less than the pivot on oneside and greater on the other
+ * @param left the left most point in the list
+ * @param right the right most point in the list
+ * @param pivot as a reference to compare to
+ * @param words the number of words in the array
+ * @param letters the number of letters in each word array
+ * @param names the names array
+ * @return an integer showing where to split the array
+ */
 int partitionMaker(int left, int right, int pivot, int words, int letters, char names[words][letters]){
     int compare(char base[], char toCompare[], int startIndex);
     int leftPointer = left;
@@ -135,12 +136,22 @@ int partitionMaker(int left, int right, int pivot, int words, int letters, char 
     return leftPointer;
 }
 
+/**
+ * recursively called on smaller and smaller arrays until they are of size zero
+ * @param left the left most point
+ * @param right the right most point
+ * @param words number of words in the array
+ * @param letters the number of letters in each word
+ * @param names the full array of names
+ */
 void quickSort(int left, int right, int words, int letters, char names[words][letters]){
     int pivot;
     int partition;
+    //if the right and left values of the array are equal, it is sorted
     if (right-left <= 0){
         return;
     }
+    //quick sort each side of the partition
     else{
         pivot = right;
         partition = partitionMaker(left, right, pivot, words, letters, names);
@@ -153,13 +164,22 @@ void quickSort(int left, int right, int words, int letters, char names[words][le
 
 
 //true if toCompare should be before base
+/**
+ * Called recursively to compare to strings to decide which is first alphabetically
+ * @param base the word in the position
+ * @param toCompare the word that is being compared
+ * @param startIndex the address to be checked
+ * @return 1 if to compare is first alphabetically
+ */
 int compare(char base[], char toCompare[], int startIndex) {
+    //if all other letters are equal, then the one that ends first is first alphabetically
     if (base[startIndex] == '\0') {
         return 0;
     } else if (toCompare[startIndex] == '\0') {
         return 1;
     }
 
+    //compares the char values
     if (base[startIndex] > toCompare[startIndex]) {
         return 1;
     } else if (base[startIndex] == toCompare[startIndex]) {

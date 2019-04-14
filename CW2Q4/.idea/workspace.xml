@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97b86940-4377-40ff-aedd-0b2e116cbc9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../C/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CW2Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CW2Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CW2Q4/CW2Q4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CW2Q4/CW2Q4.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CW2Q4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="167" column="11" lean-forward="true" selection-start-line="167" selection-start-column="11" selection-end-line="167" selection-end-column="11" />
+            <state relative-caret-position="-34">
+              <caret line="121" selection-start-line="121" selection-end-line="121" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,7 +99,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555179698050" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555179809017" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java/src/CW2Q1.java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -147,16 +145,23 @@
       <option name="presentableId" value="Default" />
       <updated>1555064128701</updated>
       <workItem from="1555064131818" duration="213000" />
-      <workItem from="1555064374892" duration="17996000" />
+      <workItem from="1555064374892" duration="18761000" />
     </task>
+    <task id="LOCAL-00001" summary="LINKED LIST BOIOIOIOI">
+      <created>1555179715279</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555179715279</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18209000" />
+    <option name="totallyTimeSpent" value="18974000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1294" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25364667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -168,7 +173,7 @@
       <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32932165" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.39934355" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -223,6 +228,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="LINKED LIST BOIOIOIOI" />
+    <option name="LAST_COMMIT_MESSAGE" value="LINKED LIST BOIOIOIOI" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Java/src/CW2Q1.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -252,8 +261,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CW2Q4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="167" column="11" lean-forward="true" selection-start-line="167" selection-start-column="11" selection-end-line="167" selection-end-column="11" />
+        <state relative-caret-position="-34">
+          <caret line="121" selection-start-line="121" selection-end-line="121" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
