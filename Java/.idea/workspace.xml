@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68a699ce-7efb-4e4f-8978-07b315d8d2d9" name="Default Changelist" comment="" />
+    <list default="true" id="68a699ce-7efb-4e4f-8978-07b315d8d2d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CW2Q8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW2Q8/src/CW2Q8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q7/.idea/Q7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../C/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C/Names/names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../C/Names/names.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C/cmake-build-debug/C.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../C/cmake-build-debug/C.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/C.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/C.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/C.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/C.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../C/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW2Q4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CW2Q4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW2Q4/out/production/CW2Q4/CW2Q4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CW2Q4/out/production/CW2Q4/CW2Q4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q3/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Q3/main.c" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CW2Q1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="62" column="29" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+            <state relative-caret-position="373">
+              <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -52,7 +65,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -64,6 +76,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -114,6 +127,7 @@
       <workItem from="1554925880500" duration="7400000" />
       <workItem from="1554994786286" duration="1669000" />
       <workItem from="1555063886586" duration="244000" />
+      <workItem from="1555242827585" duration="657000" />
     </task>
     <task id="LOCAL-00001" summary="initialv2">
       <created>1554925964430</created>
@@ -126,12 +140,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10679000" />
+    <option name="totallyTimeSpent" value="11336000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1294" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26580226" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26985413" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -176,8 +191,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CW2Q1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="62" column="29" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+        <state relative-caret-position="373">
+          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

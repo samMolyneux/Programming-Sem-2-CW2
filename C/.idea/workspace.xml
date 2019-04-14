@@ -12,18 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3bc0f16-c1e4-41d0-8060-a1432c4ab77b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../CW2Q8/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CW2Q8/src/CW2Q8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/.idea/Q7.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Names/names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Names/names.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/C.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/C.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C.dir/main.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C.dir/objects.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW2Q4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CW2Q4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW2Q4/out/production/CW2Q4/CW2Q4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CW2Q4/out/production/CW2Q4/CW2Q4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Q3/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Q3/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
