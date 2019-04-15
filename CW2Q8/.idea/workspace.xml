@@ -2,89 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce4c8973-e099-40c2-9a2e-ea5a7b39bac9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/3.13.4/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/3.13.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/3.13.4/CMakeRCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/3.13.4/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/3.13.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/3.13.4/CompilerIdC/a.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/C.includecache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/depend.internal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/linklibs.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/main.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/objects.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/objects1.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/Q5.cbp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/Q5.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/debate.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/redact.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/3.13.4/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/3.13.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/3.13.4/CMakeRCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/3.13.4/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/3.13.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/3.13.4/CompilerIdC/a.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/Q7.dir/C.includecache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/Q7.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/Q7.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/Q7.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/Q7.dir/depend.internal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/Q7.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/Q7.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/Q7.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/Q7.dir/linklibs.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/Q7.dir/main.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/Q7.dir/objects.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/Q7.dir/objects1.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/Q7.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/Q7.cbp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/Q7.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q7/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../C/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CW2Q4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CW2Q4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW2Q4/out/production/CW2Q4/CW2Q4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CW2Q4/out/production/CW2Q4/CW2Q4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW2Q4/out/production/CW2Q4/Names/names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CW2Q4/out/production/CW2Q4/Names/names.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW2Q4/src/CW2Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW2Q4/src/CW2Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW2Q4/src/Names/names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CW2Q4/src/Names/names.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CW2Q8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CW2Q8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/out/production/Java/CW2Q1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/out/production/Java/CW2Q1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/out/production/Java/Names/names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/out/production/Java/Names/names.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/src/CW2Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/src/CW2Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/src/Names/names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/src/Names/names.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Q3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Q3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Q5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Q5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Q5/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Q5/main.c" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -98,8 +23,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CW2Q8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="340">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#340#341#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -173,7 +102,7 @@
     <configuration name="CW2Q8" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CW2Q8" />
       <module name="CW2Q8" />
-      <option name="PROGRAM_PARAMETERS" value="5" />
+      <option name="PROGRAM_PARAMETERS" value="1001" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -191,16 +120,15 @@
       <updated>1555184698050</updated>
       <workItem from="1555184701045" duration="2387000" />
       <workItem from="1555236441112" duration="1224000" />
-      <workItem from="1555336662532" duration="598000" />
+      <workItem from="1555336662532" duration="859000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4209000" />
+    <option name="totallyTimeSpent" value="4470000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1294" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25769854" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -211,7 +139,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32932165" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -239,8 +167,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/CW2Q8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

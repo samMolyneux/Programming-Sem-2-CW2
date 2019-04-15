@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 int getLength(char *word);
 int main(int argc, char* argv[]) {
@@ -7,7 +6,7 @@ int main(int argc, char* argv[]) {
     char input[5000];
     char *plaintext = argv[1];
 
-
+    //write the file to an array
     FILE *filePointer = fopen(argv[1], "r");
     if (filePointer == NULL) {
         printf("no file found");
@@ -33,6 +32,8 @@ int main(int argc, char* argv[]) {
         columnLength++;
     }
 
+    //plaintext = argv[1];
+
     char table[keyLength][columnLength];
 
     int currentPosition = 0;
@@ -43,6 +44,7 @@ int main(int argc, char* argv[]) {
     }
     printf("\n");
 
+    //add the plaintext to the columns
     for(int i = 0; i <= keyLength-1; i++){
         currentPosition = i;
         for(int j = 0; j <= columnLength -1; j++) {
@@ -61,17 +63,19 @@ int main(int argc, char* argv[]) {
 
     printf("%d\n\n", columnLength);
 
+    //uses bubbles sort to order the columns
     int n = keyLength;
     for(int i=0; i < n; i++){
         //checks each item against all non-sorted items
         for(int j=1; j < (n-i); j++) {
-            if(key[j-1]<key[j]){
+            if(key[j-1]>key[j]){
+                //swaps the letters in the key
                 char temp = key[j-1];
                 key[j-1] = key[j];
                 key[j] = temp;
 
+                //swaps the 'columns'
                 char tempArray[keyLength];
-
                 for(int k = 0; k <= columnLength-1; k++){
                     tempArray[k] = table[j-1][k];
                 }
@@ -84,20 +88,27 @@ int main(int argc, char* argv[]) {
             }
         }
         }
+    filePointer = fopen(argv[1], "w");
+    for(int j = 0; j <= columnLength -1; j++){
 
     for(int i =0; i <= keyLength-1; i++){
-        for(int j = 0; j <= columnLength -1; j++){
             printf("%c", table[i][j]);
+            fputc(table[i][j], filePointer);
         }
     }
     return 0;
 }
 
+/**
+ * gets the length of the word by iterating through until an end character
+ * @param word the word to count
+ * @return the length of the word
+ */
 int getLength(char *word){
     int length = 0;
     while(word[length] !='\0'){
         length++;
     }
-    printf("\n%d", length);
+    //printf("\n%d", length);
     return length;
 }

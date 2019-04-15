@@ -55,7 +55,7 @@ int main(int argc, char* argv[]) {
     //adding the final word as file doesnt end with ','
     for (int j = 0; j <= letterCounter-1; j++) {
         input[wordCounter][j] = currentName[j];
-        printf("%c",currentName[j]);
+        //printf("%c",currentName[j]);
     }
     wordCounter++;
     input[wordCounter][letterCounter] = '\0';
@@ -69,10 +69,55 @@ int main(int argc, char* argv[]) {
         //printf("Inserting: %s\n", input[j]);
         add(input[j], hashArray);
     }
+    char *inName;
+    char inChar;
+    int i;
 
-    printf("Collisions: %d", collisions);
 
-    //delete("MARY", hashArray);
+        printf("Hash table created with %d collisions\n", collisions);
+
+        printf("Type 1 to delete a word\n");
+        printf("Type 2 to search for a word\n");
+        printf("Type 3 to add a word\n");
+        printf("Type 4 to output to file\n");
+        printf("Type 5 to exit\n");
+
+
+        inChar = scanf(filePointer, "%s", inName, &i);
+
+        switch (inChar) {
+            case '1':
+                printf("Type the word you wish to delete");
+                inName = fgets(inName, LETTERS, filePointer);
+                delete(inName, hashArray);
+                break;
+            case '2':
+                printf("Type the word you wish to search for");
+                inName = fgets(inName, LETTERS, filePointer);
+                search(inName, hashArray);
+                break;
+            case '3':
+                printf("Type the word you wish to add");
+                inName = fgets(inName, LETTERS, filePointer);
+                add(inName, hashArray);
+                break;
+            case '4':
+                for (int i = 0; i <= WORDS - 1; i++) {
+                    int k = 0;
+                    while (hashArray[i][k] != NULL) {
+                        printf(hashArray[i][k]);
+                    }
+                }
+                break;
+            default:
+                break;
+
+        }
+        if(inChar == 5){
+        }
+
+
+
     return 0;
 }
 

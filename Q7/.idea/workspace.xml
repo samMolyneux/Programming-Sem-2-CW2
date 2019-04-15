@@ -12,82 +12,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ce4199d-6732-4ede-bdf0-5bcfc5e4b515" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/3.13.4/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/3.13.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/3.13.4/CMakeRCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/3.13.4/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/3.13.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/3.13.4/CompilerIdC/a.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/C.includecache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/depend.internal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/linklibs.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/main.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/objects.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/objects1.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/Q5.cbp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/Q5.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/debate.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q5/redact.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.4/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.4/CMakeRCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.4/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.4/CompilerIdC/a.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q7.dir/C.includecache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q7.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q7.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q7.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q7.dir/depend.internal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q7.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q7.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q7.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q7.dir/linklibs.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q7.dir/main.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q7.dir/objects.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q7.dir/objects1.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q7.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Q7.cbp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Q7.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../C/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../C/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW2Q4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CW2Q4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW2Q4/out/production/CW2Q4/CW2Q4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CW2Q4/out/production/CW2Q4/CW2Q4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW2Q4/out/production/CW2Q4/Names/names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CW2Q4/out/production/CW2Q4/Names/names.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW2Q4/src/CW2Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW2Q4/src/CW2Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW2Q4/src/Names/names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CW2Q4/src/Names/names.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW2Q8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CW2Q8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Q3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Q5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Q5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Q5/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Q5/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -110,11 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-831">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -124,6 +56,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>printf</find>
+      <find>prin</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -136,7 +69,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
     <option name="width" value="1294" />
     <option name="height" value="1047" />
@@ -185,7 +118,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Q7" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="&quot;It will now be inquired how the machine can of itself, and without having recourse to the hand of man, assume the successive dispositions suited to the operations. The solution of this problem has been taken from Jacquard's apparatus, used for the manufacture of brocaded stuffs, in the following manner.  Two species of threads are usually distinguished in woven stuffs; one is the warp or longitudinal thread, the other the woof or transverse thread, which is conveyed by the instrument called the shuttle, and which crosses the longitudinal thread or warp. When a brocaded stuff is required, it is necessary in turn to prevent certain threads from crossing the woof, and this according to a succession which is determined by the nature of the design that is to be reproduced. Formerly this process was lengthy and difficult, and it was requisite that the workman, by attending to the design which he was to copy, should himself regulate the movements the threads were to take. Thence arose the high price of this description of stuffs, especially if threads of various colours entered into the fabric. To simplify this manufacture, Jacquard devised the plan of connecting each group of threads that were to act together, with a distinct lever belonging exclusively to that group. All these levers terminate in rods, which are united together in one bundle, having usually the form of a parallelopiped with a rectangular base. The rods are cylindrical, and are separated from each other by small intervals. The process of raising the threads is thus resolved into that of moving these various lever-arms in the requisite order. To effect this, a rectangular sheet of pasteboard is taken, somewhat larger in size than a section of the bundle of lever-arms. If this sheet be applied to the base of the bundle, and an advancing motion be then communicated to the pasteboard, this latter will move with it all the rods of the bundle, and consequently the threads that are connected with each of them. But if the pasteboard, instead of being plain, were pierced with holes corresponding to the extremities of the levers which meet it, then, since each of the levers would pass through the pasteboard during the motion of the latter, they would all remain in their places. We thus see that it is easy so to determine the position of the holes in the pasteboard, that, at any given moment, there shall be a certain number of levers, and consequently of parcels of threads, raised, while the rest remain where they were. Supposing this process is successively repeated according to a law indicated by the pattern to be executed, we perceive that this pattern may be reproduced on the stuff. For this purpose we need merely compose a series of cards according to the law required, and arrange them in suitable order one after the other; then, by causing them to pass over a polygonal beam which is so connected as to turn a new face for every stroke of the shuttle, which face shall then be impelled parallelly to itself against the bundle of lever-arms, the operation of raising the threads will be regularly performed. Thus we see that brocaded tissues may be manufactured with a precision and rapidity formerly difficult to obtain.  Arrangements analogous to those just described have been introduced into the Analytical Engine. It contains two principal species of cards: first, Operation cards, by means of which the parts of the machine are so disposed as to execute any determinate series of operations, such as additions, subtractions, multiplications, and divisions; secondly, cards of the Variables, which indicate to the machine the columns on which the results are to be represented. The cards, when put in motion, successively arrange the various portions of the machine according to the nature of the processes that are to be effected, and the machine at the same time executes these processes by means of the various pieces of mechanism of which it is constituted. &quot; LOVELACE" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Q7" TARGET_NAME="Q7" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Q7" RUN_TARGET_NAME="Q7">
+    <configuration name="Q7" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="&quot;E:\Documents\Computer Science\Programming\Programming Sem 2 CW2\Q7\text.txt&quot; LOVELACE" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Q7" TARGET_NAME="Q7" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Q7" RUN_TARGET_NAME="Q7">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -202,7 +135,7 @@
       <option name="presentableId" value="Default" />
       <updated>1555236684961</updated>
       <workItem from="1555236686758" duration="14483000" />
-      <workItem from="1555323688805" duration="598000" />
+      <workItem from="1555323688805" duration="3946000" />
     </task>
     <task id="LOCAL-00001" summary="s">
       <created>1555248574529</created>
@@ -229,10 +162,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15081000" />
+    <option name="totallyTimeSpent" value="18429000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1294" height="1047" extended-state="1" />
+    <frame x="-7" y="0" width="1294" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25364667" />
@@ -240,7 +173,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32932165" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -270,11 +203,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-831">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
