@@ -1,7 +1,4 @@
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.util.ArrayList;
 
 public class CW2Q1 {
@@ -116,13 +113,29 @@ public class CW2Q1 {
 
     }
 
+    static void printToFile(String[] strings, String filePath){
+        try {
+            PrintWriter writer = new PrintWriter(new FileWriter(filePath));
+            for (int i = 0; i <= strings.length-1; i++) {
+                writer.printf("%c%s%c,", '"', strings[i], '"');
+            }
+        }catch (FileNotFoundException e){
+            System.out.println("file not found");
+        }catch (IOException e){
+            System.out.println("IO error");
+        }
+    }
+
 
     public static void main(String[] args){
         String[] sorted = bubbleSort(getStrings(args[0]));
         int i = 0;
         while( sorted[i] != null) {
-            System.out.println(sorted[i]);
+            //System.out.println(sorted[i]);
             i++;
         }
+
+        printToFile(sorted, args[0]);
+
     }
 }
