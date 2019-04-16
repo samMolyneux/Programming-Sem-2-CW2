@@ -71,15 +71,15 @@ int main(int argc, char* argv[]) {
 
 
     printf("File made with %d collisions\n", collisions);
-    printf("Testing deletion by searching for name ALONSO, deleting then searching again");
+    printf("Testing deletion: ");
     printf("\n");
-    printf("%d",search("ALONSO", hashArray));
+    printf("%d",search("PATRICIA", hashArray));
     printf("\n");
-    delete("ALONSO", hashArray);
-    printf("%d", search("ALONSO", hashArray));
+    delete("PATRICIA", hashArray);
+    printf("\n%d", search("MARY", hashArray));
     printf("\n");
     printf("\n");
-    printf("Testing addition by searching for name TEST, adding then searching again\n");
+    printf("Testing addition: \n");
     printf("%d", search("TEST", hashArray));
     add("TEST", hashArray);
     printf("\n");

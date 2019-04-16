@@ -1,17 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/CW2Q4.java" line="77" />
+    <bookmark url="file://$PROJECT_DIR$/src/CW2Q4.java" line="89" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97b86940-4377-40ff-aedd-0b2e116cbc9a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../C/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../C/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C/Names/names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../C/Names/names.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C/cmake-build-debug/C.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../C/cmake-build-debug/C.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/C.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/C.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/C.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/C.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../C/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CW2Q4/CW2Q4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CW2Q4/CW2Q4.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CW2Q4/Names/names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CW2Q4/Names/names.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CW2Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CW2Q4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Names/names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Names/names.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CW2Q8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CW2Q8/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW2Q8/src/CW2Q8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW2Q8/src/CW2Q8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/src/CW2Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/src/CW2Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Q3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q3/cmake-build-debug/CMakeFiles/Q3.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Q3/cmake-build-debug/CMakeFiles/Q3.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q3/cmake-build-debug/CMakeFiles/Q3.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../Q3/cmake-build-debug/CMakeFiles/Q3.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q3/cmake-build-debug/Q3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Q3/cmake-build-debug/Q3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q3/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Q3/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Q5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/CMakeFiles/Q5.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q5/cmake-build-debug/Q5.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Q5/cmake-build-debug/Q5.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q5/debate.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Q5/debate.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q5/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Q5/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Q7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q7/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Q7/main.c" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,12 +45,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CW2Q4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="159" column="57" lean-forward="true" selection-start-line="159" selection-start-column="57" selection-end-line="159" selection-end-column="57" />
+            <state relative-caret-position="374">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#5971#5972#0" expanded="true" />
-                <element signature="e#6009#6010#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -74,7 +92,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
     <option name="width" value="1294" />
     <option name="height" value="1047" />
@@ -90,7 +108,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555354437570" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -137,6 +155,7 @@
       <workItem from="1555064131818" duration="213000" />
       <workItem from="1555064374892" duration="18761000" />
       <workItem from="1555338268226" duration="8079000" />
+      <workItem from="1555405714318" duration="8407000" />
     </task>
     <task id="LOCAL-00001" summary="LINKED LIST BOIOIOIOI">
       <created>1555179715279</created>
@@ -156,11 +175,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27053000" />
+    <option name="totallyTimeSpent" value="35460000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1294" height="1047" extended-state="1" />
-    <editor active="true" />
+    <frame x="-7" y="0" width="1294" height="1047" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25364667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -172,7 +190,7 @@
       <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32932165" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.39934355" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -244,6 +262,16 @@
     <entry file="file://$PROJECT_DIR$/../Java/Java.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/CW2Q4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -251,18 +279,6 @@
           <folding>
             <element signature="e#447#448#0" expanded="true" />
             <element signature="e#477#478#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CW2Q4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="159" column="57" lean-forward="true" selection-start-line="159" selection-start-column="57" selection-end-line="159" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#5971#5972#0" expanded="true" />
-            <element signature="e#6009#6010#0" expanded="true" />
           </folding>
         </state>
       </provider>
